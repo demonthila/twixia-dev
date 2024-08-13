@@ -4,6 +4,7 @@
     --secondary-font:Inder;
 
     --primary-color:#7EAB89;
+    --fade--bg:#7eab8938;
 }
 .michroma-regular {
     font-family: "Michroma", sans-serif;
@@ -31,7 +32,8 @@
 .herotext{
     font-family: var(--primary-font);
     font-size: 48px;
-    line-height: 70px;
+    line-height: 60px;
+    padding-top: 50px;
 }
 #colortexthero{
     color: var(--primary-color);
@@ -80,4 +82,28 @@
  .slidedown{
   border-radius: 14px;
   
+ }
+ #imghero{
+  border-radius: 14px;
+  
+
+ }
+ .con-sec2{
+  background-color: var(--fade--bg);
+  margin-top: 100px;
+ }
+ .secherotext{
+  font-family: var(--primary-font);
+    font-size: 32px;
+    line-height: 50px;
+ }
+ .hello{
+  margin-top: 900px;
+ }
+ .consec21{
+  background-color: #1E1E1E;
+  border-radius: 14px;
+ }
+ #hh{
+  padding: -23px;
  }
